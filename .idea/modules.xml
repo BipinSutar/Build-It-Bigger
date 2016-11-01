@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_App.iml" filepath="$PROJECT_DIR$/Android_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokestellinglibaray/jokestellinglibaray.iml" filepath="$PROJECT_DIR$/jokestellinglibaray/jokestellinglibaray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokestellinglibrary/jokestellinglibrary.iml" filepath="$PROJECT_DIR$/jokestellinglibrary/jokestellinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showjokelibrary/showjokelibrary.iml" filepath="$PROJECT_DIR$/showjokelibrary/showjokelibrary.iml" />
+    </modules>
+  </component>
+</project>
